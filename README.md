@@ -1,3 +1,3 @@
 # Studies
-AndroidMob
+Android
 hello world!
