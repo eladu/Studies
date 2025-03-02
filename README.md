@@ -1,3 +1,2 @@
-# Studies
-Android
-hello world!
+# Use for studies only
+
