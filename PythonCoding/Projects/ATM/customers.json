@@ -1,0 +1,14 @@
+{
+    "Avi Cohen": {
+        "pin": "1221",
+        "balance": 0
+    },
+    "Yossi Cohen": {
+        "pin": "6543",
+        "balance": 500
+    },
+    "Yuri Levi": {
+        "pin": "5852",
+        "balance": 800
+    }
+}
