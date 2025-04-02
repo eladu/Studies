@@ -80,3 +80,7 @@ Then it will get the user back to the "ATM MENU" screen.
       At this moment DATE: 01/03/23 10:00:00 you got 1000 NIS in you account
        Thank you for using your ATM
           """
+# Eran
+In general, good work.
+You did all the requirements on the code side.
+Just to add a pull request, this is the way we need to work in the real world. We at least need two branches: dev and main and open pull request to merge from dev to main.
